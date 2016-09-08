@@ -1,0 +1,6 @@
+.about-social ul { padding: 0px; margin: 0px; }
+.about-social ul li { display: inline-block; }
+.about-social ul li a { display: block; margin: 0px 5px; width: 40px; height: 40px; background: #ffbd00; color: #ffffff; line-height: 40px; text-align: center; border-radius: 25%; font-size: 14px; }
+.about-social ul li a:hover { background: #2f3742; }
+.about-social ul li { margin: 5px 0px; }
+.about-social ul li a { margin: 0px 2px; }
