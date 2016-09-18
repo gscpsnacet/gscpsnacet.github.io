@@ -55,6 +55,18 @@ p {
     background-color: #f05f40;
 }
 
+.bg-secondary {
+    background-color: #f45554;
+}
+
+.bg-pink {
+    background-color: #f04079;
+}
+
+.bg-orange {
+    background-color: #f0a440;
+}
+
 .bg-dark {
     color: #fff;
     background-color: #222;
